@@ -1,5 +1,6 @@
 * [EPEL](http://fedoraproject.org/wiki/EPEL)
-* [RepoForge](http://repoforge.org)
 * [li.nux.ro](http://li.nux.ro)
-* [http://rpmfusion.org](http://rpmfusion.org)
+* [Remi](http://rpms.famillecollet.com)
+* [RepoForge](http://repoforge.org)
+* [RPM Fusion](http://rpmfusion.org)
 * [Ali-OSM](http://mirrors.aliyun.com)
