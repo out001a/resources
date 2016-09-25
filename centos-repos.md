@@ -4,3 +4,4 @@
 * [RepoForge](http://repoforge.org)
 * [RPM Fusion](http://rpmfusion.org)
 * [Ali-OSM](http://mirrors.aliyun.com)
+* [OpenResty Linux Packages](http://openresty.org/en/linux-packages.html)
