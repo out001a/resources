@@ -3,3 +3,4 @@
 * [jstree](https://www.jstree.com/) a jquery plugin, that provides interactive trees
 * [gifify](https://github.com/vvo/gifify) 😻 Convert any video file to an optimized animated GIF
 * [pm2](http://pm2.io) Production process manager for Node.js apps with a built-in load balancer
+* [tus.io](http://tus.io) Open protocol for Resumable File Uploads
