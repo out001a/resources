@@ -4,3 +4,4 @@
 * [PHPOffice](http://phpoffice.github.io/) contains libraries which permits to write and read files from most office suites.
 * [pinyin](http://overtrue.me/pinyin/) 汉字转拼音库
 * [grafika](https://kosinix.github.io/grafika) An image processing library for PHP
+* [v8js](https://github.com/phpv8/v8js) V8 Javascript Engine for PHP
