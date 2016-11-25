@@ -5,3 +5,4 @@
 * [pinyin](http://overtrue.me/pinyin/) 汉字转拼音库
 * [grafika](https://kosinix.github.io/grafika) An image processing library for PHP
 * [v8js](https://github.com/phpv8/v8js) V8 Javascript Engine for PHP
+* [Coding Standards Fixer](http://cs.sensiolabs.org/) The PSR-1 and PSR-2 Coding Standards fixer
