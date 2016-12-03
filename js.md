@@ -5,3 +5,4 @@
 * [pm2](http://pm2.io) Production process manager for Node.js apps with a built-in load balancer
 * [tus.io](http://tus.io) Open protocol for Resumable File Uploads
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
+* [Leaflet](http://leafletjs.com) the leading open-source JavaScript library for mobile-friendly interactive maps.
