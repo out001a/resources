@@ -4,3 +4,4 @@
 * [Let’s Encrypt](https://letsencrypt.org/) a free, automated, and open Certificate Authority.
 * [Certbot](https://certbot.eff.org/) Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.
 * [Browsix](https://browsix.org/) a Unix-like operating system for the browser.
+* [swagger](http://swagger.io/) is a powerful open source framework backed by a large ecosystem of tools that helps you design, build, document, and consume your RESTful APIs.
