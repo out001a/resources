@@ -6,3 +6,5 @@
 * [grafika](https://kosinix.github.io/grafika) An image processing library for PHP
 * [v8js](https://github.com/phpv8/v8js) V8 Javascript Engine for PHP
 * [Coding Standards Fixer](http://cs.sensiolabs.org/) The PSR-1 and PSR-2 Coding Standards fixer
+* [PHP_Depend](https://pdepend.org/) performs static code analysis on a given source base
+* [PHPMD - PHP Mess Detector](https://phpmd.org/) takes a given PHP source code base and look for several potential problems within that source
