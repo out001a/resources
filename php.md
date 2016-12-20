@@ -8,3 +8,4 @@
 * [Coding Standards Fixer](http://cs.sensiolabs.org/) The PSR-1 and PSR-2 Coding Standards fixer
 * [PHP_Depend](https://pdepend.org/) performs static code analysis on a given source base
 * [PHPMD - PHP Mess Detector](https://phpmd.org/) takes a given PHP source code base and look for several potential problems within that source
+* [dompdf](https://github.com/dompdf/dompdf) HTML to PDF converter (PHP5)
