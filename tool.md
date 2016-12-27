@@ -6,3 +6,4 @@
 * [Browsix](https://browsix.org/) a Unix-like operating system for the browser.
 * [swagger](http://swagger.io/) a powerful open source framework backed by a large ecosystem of tools that helps you design, build, document, and consume your RESTful APIs.
 * [hyperfox](https://hyperfox.org/) a security tool for proxying and recording HTTP and HTTPs communications on a LAN.
+* [mitmproxy](http://mitmproxy.org) an interactive man-in-the-middle proxy for HTTP and HTTPS with a console interface.
