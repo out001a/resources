@@ -7,3 +7,5 @@
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
 * [Leaflet](http://leafletjs.com) the leading open-source JavaScript library for mobile-friendly interactive maps.
 * [Springy](http://getspringy.com/) a force directed graph layout algorithm.
+* [flv.js](https://github.com/Bilibili/flv.js) an HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
+* [video.js](http://videojs.com) a free and open source HTML5 video player.
