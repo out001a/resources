@@ -9,3 +9,4 @@
 * [Springy](http://getspringy.com/) a force directed graph layout algorithm.
 * [flv.js](https://github.com/Bilibili/flv.js) an HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
 * [video.js](http://videojs.com) a free and open source HTML5 video player.
+* [echarts](http://echarts.baidu.com) a powerful, interactive charting and visualization library for browser.
