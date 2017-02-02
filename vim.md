@@ -1,1 +1,7 @@
-[pathogen](https://github.com/tpope/vim-pathogen) manage your runtimepath.
+* [pathogen](https://github.com/tpope/vim-pathogen) manage your runtimepath.
+* [Vim 8 for CentOS Linux 7](http://www.karan.org/blog/2016/11/05/vim-8-for-centos-linux-7/)
+  - `cd /etc/yum.repos.d/`
+  - `wget https://copr.fedorainfracloud.org/coprs/mcepl/vim8/repo/epel-7/mcepl-vim8-epel-7.repo`
+  - `rpm --import https://copr-be.cloud.fedoraproject.org/results/mcepl/vim8/pubkey.gpg`
+  - `yum update` or `yum install vim-enhanced`
+  - run `rpm -q vim-enhanced` to check if updated
