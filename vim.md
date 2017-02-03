@@ -5,3 +5,4 @@
   - `rpm --import https://copr-be.cloud.fedoraproject.org/results/mcepl/vim8/pubkey.gpg`
   - `yum update` or `yum install vim-enhanced`
   - run `rpm -q vim-enhanced` to check if updated
+* [spf13](http://vim.spf13.com/) a distribution of vim plugins and resources for Vim, GVim and MacVim.
