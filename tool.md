@@ -9,3 +9,4 @@
 * [mitmproxy](http://mitmproxy.org) an interactive man-in-the-middle proxy for HTTP and HTTPS with a console interface.
 * [Tile38](http://tile38.com/) an open source, in-memory geolocation data store, spatial index, and realtime geofence.
 * [Redis Desktop Manager](https://redisdesktop.com/) Cross-platform open source Redis DB management tool
+* [quartz-scheduler](http://www.quartz-scheduler.org/) a richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system.
