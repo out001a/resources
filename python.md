@@ -3,3 +3,6 @@
 
 ### framework
 * [falcon](https://falconframework.org/)
+
+### sdk
+* [wechat](http://www.wechat-python-sdk.com/)
