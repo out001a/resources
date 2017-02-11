@@ -11,3 +11,4 @@
 * [PHPStan](https://github.com/phpstan/phpstan) PHP Static Analysis Tool - discover bugs in your code without running it
 * [dompdf](https://github.com/dompdf/dompdf) HTML to PDF converter (PHP5)
 * [etcd-php](https://github.com/linkorb/etcd-php) Etcd client library for PHP
+* [NumPHP](https://numphp.org/) Mathematical PHP library for scientific computing
