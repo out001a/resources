@@ -13,3 +13,4 @@
 * [Celery](http://www.celeryproject.org/) is an asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.
 * [apscheduler](https://github.com/agronholm/apscheduler) Task scheduling library for Python
 * [Ganglia](http://ganglia.info/) a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
+* [pdf.js](https://github.com/mozilla/pdf.js) PDF Reader in JavaScript
