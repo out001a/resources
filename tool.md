@@ -14,3 +14,4 @@
 * [apscheduler](https://github.com/agronholm/apscheduler) Task scheduling library for Python
 * [Ganglia](http://ganglia.info/) a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
 * [pdf.js](https://github.com/mozilla/pdf.js) PDF Reader in JavaScript
+* [apiDoc](http://apidocjs.com/) creates a documentation from API annotations in your source code.
