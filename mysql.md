@@ -6,3 +6,4 @@
 * [MaxScale](https://mariadb.com/products/mariadb-maxscale) a database proxy that manages security, scalability and high availability in scale-out deployments.
 * [Atlas](https://github.com/Qihoo360/Atlas) A high-performance and stable proxy for MySQL, implement the connection pool.
 * [OnlineSchemaChange](https://github.com/facebookincubator/OnlineSchemaChange) A tool for performing online schema changes on MySQL.
+* [DBeaver](http://dbeaver.jkiss.org/) Free universal database manager and SQL client.
